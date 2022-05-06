@@ -7,7 +7,7 @@
       placeholder="Поиск"
     />
     <button class="search__btn" for="search">
-      <img src="/assets/Vector.svg" alt="search" />
+      <img src="assets/Vector.svg" alt="search" />
     </button>
   </form>
 </template>
